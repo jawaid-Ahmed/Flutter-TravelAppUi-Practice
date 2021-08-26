@@ -1,5 +1,9 @@
 # flutrtertravelui
 
+![travelUi](https://user-images.githubusercontent.com/36307747/131041500-ad3a3c54-983d-4d07-88be-8093695e8439.gif)
+
+
+
 A new Flutter project.
 
 ## Getting Started
